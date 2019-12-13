@@ -168,4 +168,9 @@
         android:layout_marginTop="20dp"
         android:layout_marginRight="40dp"
         android:text="@string/txt_btn_cancelar" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 </LinearLayout>
